@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "",
+    "precio": "",
+    "foto": "",
+    "descripcion": "",
+    "codigo": "",
+    "stock": "",
+    "id": 1
+  },
+  {
+    "nombre": "manzana",
+    "precio": "2000",
+    "foto": "1",
+    "descripcion": "roja",
+    "codigo": "01",
+    "stock": "20",
+    "id": 2,
+    "timestamp": "26/11/2023, 2:44:21 a. m."
+  },
+  {
+    "nombre": "manzana",
+    "precio": "2000",
+    "foto": "1",
+    "descripcion": "roja",
+    "codigo": "01",
+    "stock": "20",
+    "id": 3,
+    "timestamp": "26/11/2023, 2:44:30 a. m."
+  }
+]
